@@ -1,0 +1,1 @@
+GitHub offers a variety of classes, each geared for users with different levels of skill and experience. If you are new to version control, Git, or collaborative workflows, the Introduction to GitHub class is a great place to begin. If you've used Git and GitHub before and are comfortable with the command line, consider joining GitHub for Developers to explore its full potential.
